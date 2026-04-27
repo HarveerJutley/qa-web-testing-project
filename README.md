@@ -1,4 +1,4 @@
-![CI](https://github.com/HarveerJutley/qa-web-testing-project/actions/workflows/QA%20Test%20Pipeline/badge.svg?branch=main)
+![CI](https://github.com/HarveerJutley/qa-web-testing-project/actions/workflows/tests.yml/badge.svg?branch=main)
 # QA Web Testing Project
 
 ## Overview
