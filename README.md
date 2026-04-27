@@ -1,4 +1,4 @@
-![CI](https://github.com/HarveerJutley/qa-web-testing-project/workflows/build/badge.svg)
+![CI](https://github.com/HarveerJutley/qa-web-testing-project/actions/workflows/ci.yml/badge.svg)
 # QA Web Testing Project
 
 ## Overview
