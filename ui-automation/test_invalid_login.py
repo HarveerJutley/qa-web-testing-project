@@ -11,7 +11,8 @@ def test_invalid_login():
         page.fill("#password", "wrong_pass")
         page.click("#login-button")
 
-        assert page.locator(".error-message").is_visible()
+        error = page.locator("[data-test='error']")
+        assert error.is_visible()
         
 
         browser.close()
