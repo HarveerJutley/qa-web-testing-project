@@ -7,7 +7,7 @@ def test_invalid_login():
 
         page.goto("https://www.saucedemo.com")
 
-        page.fill("#user-name", "wrong_user")
+        page.fill("#user-name", "wrong_use")
         page.fill("#password", "wrong_pass")
         page.click("#login-button")
 

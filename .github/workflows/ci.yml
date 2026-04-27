@@ -1,4 +1,4 @@
-name: QA Test Pipeline
+name: CI Pipeline
 
 on:
   push:
